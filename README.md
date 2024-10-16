@@ -1,7 +1,8 @@
 # Busca de Processos Judiciais
 
 ## Descrição
-Este projeto busca nos tribunais os processos listados em uma tabela Excel e faz requisições pela API DataJud do 
+Este projeto abre uma telinha onde o usuário escolhe o arquivo excel que contenha os números dos processos,
+busca nos tribunais os processos listados em uma tabela Excel e faz requisições pela API DataJud do 
 Conselho Nacional de Justiça (CNJ) para retornar o último andamento registrado de cada processo.
 Por padrão e por conta de testes esta pesquisando pelo Tribunal de Justiça de São Paulo, é só trocar a sigla pelo 
 tribunal correspondente.
