@@ -17,11 +17,7 @@ tribunal correspondente.
    ```bash
    git clone https://github.com/LeMorelli-py/Autom.-Juridica
 
-Caso nao tenha uma dessas bibliotecas:
 
-instale com:
-
-ex: pip install nome_da_biblioteca
 
 ## Bibliotecas necessárias
 - pandas
@@ -33,6 +29,10 @@ ex: pip install nome_da_biblioteca
 - sys
 - warnings
 - concurrent.futures
+
+Caso nao tenha uma dessas bibliotecas:
+instale com:
+ex: pip install nome_da_biblioteca
 
 
 Autor: Leandro Coneglian Morelli
